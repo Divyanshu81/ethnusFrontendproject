@@ -30,7 +30,7 @@ const Welcome = (props) => {
       className={classes.root}
     >
       <Grid item>
-        <Typography variant="h2" color="White">Welcome to Job Portal</Typography>
+        <Typography variant="h2" color="White">Welcome to HRM and Applicant Tracking</Typography>
       </Grid>
     </Grid>
   );
